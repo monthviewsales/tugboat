@@ -1,7 +1,7 @@
 
 # Tugboat
 
-Tugboat is a collection of Docker utilities designed to simplify and automate various Docker operations, such as backing up and restoring images and volumes. This project aims to provide a set of tools that make working with Docker more efficient and user-friendly.
+Tugboat is a collection of Docker utilities written in javascript designed to simplify and automate various Docker operations, such as backing up and restoring images and volumes. This project aims to provide a set of tools that make working with Docker more efficient and user-friendly.
 
 ## Getting Started
 
